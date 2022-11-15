@@ -28,6 +28,7 @@ const Task = (props) => {
           readOnly={true}
           name="title"
           placeholder="Input Title"
+          style={{ background: 'red' }}
         />
       </label>
 
